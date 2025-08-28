@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL2S_KSn_C6"
+#define BLYNK_TEMPLATE_ID "TMPLxx_xxx_xx"
 #define BLYNK_TEMPLATE_NAME "IotFinalProject"
-#define BLYNK_AUTH_TOKEN "GkA9KaVe85ZX9-O-Q4j5qqV4QTQADyO_"
+#define BLYNK_AUTH_TOKEN "xxxxxxx_xxxxxxx_xxxxxx_xxxxx"
 
 #include<WiFiNINA.h>
 #include<utility/wifi_drv.h>
@@ -8,7 +8,7 @@
 #include <DHT.h>
 
 char ssid[] = "Giza-Creativa";
-char pass[] = "Creativa-Cu@Giza";
+char pass[] = "xxxxxxxxxxxxx";
 
 int ledG=25;
 int ledR=26;
